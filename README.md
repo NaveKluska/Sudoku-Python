@@ -1,6 +1,6 @@
 # Sudoku-Python
 
-**University project — graded 100 / 100**
+**University project - graded 100 / 100**
 
 ## Overview
 This program can
